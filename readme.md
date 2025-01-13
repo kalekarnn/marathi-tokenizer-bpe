@@ -3,6 +3,8 @@
 ## Project Overview
 The **Marathi BPE Tokenizer** is a custom-built tokenizer for the Marathi language using Byte Pair Encoding (BPE). The project includes a tokenizer training script (`marathi_tokenizer.py`) and a user-friendly web interface built with Gradio (`app.py`). The interface allows users to input Marathi text and see the tokenized output, as well as encoded IDs.
 
+[Live Demo](https://huggingface.co/spaces/kalekarnn/marathi-tokenizer-bpe)
+
 ---
 
 ## Features
